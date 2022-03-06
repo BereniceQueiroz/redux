@@ -36,6 +36,8 @@ yarn
 yarn start
 ```
 
+Acesse o endereço: http://localhost:3000
+
 ## Informações adicionais
 
 Usamos algumas ferramentas para ajudar na manutenção, desenvolvimento e garantir a qualidade do projeto e do código.

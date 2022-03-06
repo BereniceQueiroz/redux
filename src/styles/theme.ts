@@ -60,7 +60,7 @@ export default {
   },
   colors: {
     primary: '#000',
-    secondary: '#f8c1b8',
+    secondary: '#F5DFDA',
     warning: '#ffae00',
     alert: '#cc4b37',
     tag: '#c2d6dc',

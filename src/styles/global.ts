@@ -55,8 +55,8 @@ const GlobalStyles = createGlobalStyle`
     }
 
     #root {
-      max-width: 1200px;
-      margin: auto;
+      /* max-width: 1200px; */
+      /* margin: auto; */
     }
 
     body {
